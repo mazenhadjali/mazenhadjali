@@ -10,7 +10,7 @@
 
 I am currently an engineering student specializing in **Software Engineering** at the **EPI Digital School** in Sousse, Tunisia. I am passionate about **web development**, and eager to contribute to innovative projects as part of my final internship with the goal of transforming this opportunity into a pre-employment position.
 
-I have experience in developing modern web applications, APIs, and working with **microservices** architecture. I’m comfortable with both frontend and backend technologies, including **ReactJS**, **Spring Boot**, and **MongoDB**. I'm always looking for new challenges that can enhance my skills and provide real-world impact.
+I have experience in developing modern web applications, APIs, and working with **microservices** architecture. I’m comfortable with both frontend and backend technologies, including **ReactJS**, **Spring Family**. I'm always looking for new challenges that can enhance my skills and provide real-world impact.
 
 ---
 
