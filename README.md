@@ -27,6 +27,8 @@ I have experience in developing modern web applications, APIs, and working with 
 
 ---
 
+![My Contributions](./images/contributions.jpg)
+
 ## 💼 Work Experience
 
 **Web Development Intern - Perform Proxym (Aug 2024)**  
@@ -58,7 +60,7 @@ I have experience in developing modern web applications, APIs, and working with 
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Social Life
 
 - I’m a chess enthusiast and enjoy strategic thinking.
 - I’m active in the **Junior Chamber International (JCI)** and have held various leadership roles, including President of JCI Bennane in 2023.
