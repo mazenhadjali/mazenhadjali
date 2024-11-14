@@ -27,7 +27,7 @@ I have experience in developing modern web applications, APIs, and working with 
 
 ---
 
-![My Contributions](./images/contributions.png)
+![My Contributions](./contributions.png)
 
 ## 💼 Work Experience
 
